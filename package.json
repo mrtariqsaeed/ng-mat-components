@@ -1,0 +1,13 @@
+{
+  "name": "ng-mat-components",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.0.14",
+    "@angular/core": "^10.0.14"
+  },
+  "dependencies": {
+    "@angular/cdk": "^10.2.1",
+    "@angular/material": "^10.2.1",
+    "tslib": "^2.0.0"
+  }
+}
