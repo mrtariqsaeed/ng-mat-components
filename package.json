@@ -1,6 +1,6 @@
 {
   "name": "ng-mat-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^10.0.14",
     "@angular/core": "^10.0.14"
@@ -9,5 +9,21 @@
     "@angular/cdk": "^10.2.1",
     "@angular/material": "^10.2.1",
     "tslib": "^2.0.0"
-  }
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.14.",
+  "main": "src/public-api.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrtariqsaeed/ng-mat-components.git"
+  },
+  "author": "tariqsaeed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrtariqsaeed/ng-mat-components/issues"
+  },
+  "homepage": "https://github.com/mrtariqsaeed/ng-mat-components#readme"
 }
